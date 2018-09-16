@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <object class="modelo.Alumno">
+    <void property="apellido_nombre">
+     <string>Juan Perez</string>
+    </void>
+    <void property="carrera">
+     <string>Licenciatura en FÃ­sica</string>
+    </void>
+    <void property="domicilio">
+     <string>Reconquista 5004</string>
+    </void>
+    <void property="fecha_de_nacimiento">
+     <string>01-01-1990</string>
+    </void>
+    <void property="id">
+     <string>0001</string>
+    </void>
+    <void property="materias">
+     <object class="java.util.HashMap">
+      <void method="put">
+       <string>ALGEBRAA</string>
+       <double>6.5</double>
+      </void>
+      <void method="put">
+       <string>ALGEBRAB</string>
+       <double>7.5</double>
+      </void>
+     </object>
+    </void>
+   </object>
+   <double>5.0</double>
+  </void>
+  <void method="put">
+   <object class="modelo.Alumno">
+    <void property="apellido_nombre">
+     <string>Leo Fernandez</string>
+    </void>
+    <void property="carrera">
+     <string>Licenciatura en FÃ­sica</string>
+    </void>
+    <void property="domicilio">
+     <string>Reconquista 5004</string>
+    </void>
+    <void property="fecha_de_nacimiento">
+     <string>01-01-1990</string>
+    </void>
+    <void property="id">
+     <string>0002</string>
+    </void>
+    <void property="materias">
+     <object class="java.util.HashMap">
+      <void method="put">
+       <string>ALGEBRAA</string>
+       <double>6.5</double>
+      </void>
+      <void method="put">
+       <string>ALGEBRAB</string>
+       <double>7.5</double>
+      </void>
+     </object>
+    </void>
+   </object>
+   <double>5.0</double>
+  </void>
+ </object>
+</java>
